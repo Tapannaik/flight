@@ -3,7 +3,7 @@ package com.xworkz.web.component;
 import org.springframework.stereotype.Component;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
-
+//error
 @Component
 @RequestMapping("/")
 public class FlightComponent {
